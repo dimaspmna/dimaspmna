@@ -1,41 +1,33 @@
 # Dimas Permana
-**Software Engineer | Content Creator**
+**Software Engineer | Linux & Deployment Specialist**
 
-Software Engineer yang fokus membagikan perjalanan dan pembelajaran di bidang teknologi. Lulusan Teknik Informatika dari Universitas Teknologi Yogyakarta.
-
----
-
-### Technical Skills
-
-**Languages**
-- JavaScript (ES6+), TypeScript, Python, Java, Kotlin, HTML5, CSS3
-
-**Frontend Development**
-- React.js, Next.js, React Native, Vite, Bootstrap, Tailwind CSS
-
-**Backend & Database**
-- Node.js, Express.js, MySQL, MongoDB, Firebase
-
-**Tools & Platforms**
-- Figma, TensorFlow, Vercel, Netlify, Git
+Software Engineer focused on building scalable applications and sharing tech insights.
+Computer Science graduate from Yogyakarta Technology University.
 
 ---
 
-### Featured Content
-<p align="center">
-  <a href="https://youtu.be/jVwNvZPQv2Y"><img src="https://ytcards.demolab.com/?id=jVwNvZPQv2Y&title=HTML+Dasar+Crash+Course&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=310&border_radius=0" alt="HTML"></a>
-  <a href="https://youtu.be/fJB8k6Yf8Io"><img src="https://ytcards.demolab.com/?id=fJB8k6Yf8Io&title=Vite+React+Tailwind+Project&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=310&border_radius=0" alt="React"></a>
+### Tech Stack
+
+**Web & Mobile Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,bootstrap" height="40" alt="frontend stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,kotlin,firebase" height="40" alt="backend & mobile stack" />
+</p>
+
+**Linux, Deployment & AI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,docker,aws,githubactions,vercel,netlify" height="40" alt="devops stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,mysql,mongodb" height="40" alt="ai & database stack" />
 </p>
 
 ---
 
-### GitHub Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimaspermana293&show_icons=true&theme=contrast&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaspermana293&layout=compact&theme=contrast&hide_border=true" width="45%" />
+### Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/dimaspmna"><b>LinkedIn</b></a> • 
+  <a href="https://youtube.com/@berinformatika"><b>YouTube</b></a> • 
+  <a href="https://instagram.com/dimas_pmna"><b>Instagram</b></a> • 
+  <a href="https://tiktok.com/@dimaspmna"><b>TikTok</b></a> • 
 </p>
-
----
-
-### Contact & Socials
-[LinkedIn](https://linkedin.com/in/dimaspmna) / [Instagram](https://instagram.com/dimpmna) / [TikTok](https://tiktok.com/@gapapakoding) / [YouTube](https://youtube.com/@codedimas) / [Behance](https://behance.net/dimaspermana8)
