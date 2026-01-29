@@ -1,4 +1,4 @@
-# Dimas Permana
+# Dimas Permana, S.Kom.
 **Software Engineer | Linux & Deployment Specialist**
 
 Software Engineer focused on building scalable applications and sharing tech insights.
